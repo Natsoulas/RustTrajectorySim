@@ -1,0 +1,5 @@
+pub const G: f64 = 6.67430e-11;  // Gravitational constant (m³/kg/s²)
+pub const M_EARTH: f64 = 5.972e24;  // Mass of Earth (kg)
+pub const R_EARTH: f64 = 6.371e6;  // Radius of Earth (m)
+pub const ORBIT_ALTITUDE: f64 = 400_000.0;  // Orbital altitude (m)
+pub const SATELLITE_MASS: f64 = 100.0;  // Satellite mass (kg) 
